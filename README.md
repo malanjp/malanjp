@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm malan (@malanjp)
+
+- Work: Web developer from Japan.
+- Like: Cat, PC Game, Anime, Manga.
 
 <!--
 **malanjp/malanjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
